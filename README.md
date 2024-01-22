@@ -26,22 +26,22 @@ You can reach me via email at [bipinj08@gmail.com](mailto:bipinj08@gmail.com).
 
 1. **UAV Path Planning using Global and Local Map Information with Proximal Policy Optimization**
    - Description: Implementing path planning for Unmanned Aerial Vehicles (UAVs) using a combination of global and local map information with Proximal Policy Optimization.
-   - [Link to Project 1][https://github.com/bipinj08/Coverage-Path-Planning-Using-MuZero]
+   - [https://github.com/bipinj08/Coverage-Path-Planning-Using-MuZero]
 
 2. **UAV Path Planning using Global and Local Map Information with MuZero algorithm**
    - Description: UAV path planning using the innovative MuZero algorithm.
-   - [Link to Project 2](link_to_project2)
+   - [https://github.com/bipinj08/Coverage-Path-Planning-Using-PPO]
 
 3. **Machine Learning Projects**
    - A collection of various machine learning projects.
-   - [Link to Machine Learning Projects](link_to_ml_projects)
+   - [https://github.com/bipinj08/Machine_Learning]
 
 4. **Deep Learning Projects**
    - Exciting projects showcasing the power of deep learning.
-   - [Link to Deep Learning Projects](link_to_dl_projects)
+   - [https://github.com/bipinj08/Deep-Learning]
 
 5. **Data Science Basics**
    - Fundamental projects exploring the basics of data science.
-   - [Link to Data Science Basics](link_to_data_science_basics)
+   - [https://github.com/bipinj08/Data_Science_with_python]
 
 Feel free to explore these projects, and I'm open to discussions and collaborations! Let's create something amazing together.
