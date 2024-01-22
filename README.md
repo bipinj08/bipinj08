@@ -26,7 +26,7 @@ You can reach me via email at [bipinj08@gmail.com](mailto:bipinj08@gmail.com).
 
 1. **UAV Path Planning using Global and Local Map Information with Proximal Policy Optimization**
    - Description: Implementing path planning for Unmanned Aerial Vehicles (UAVs) using a combination of global and local map information with Proximal Policy Optimization.
-   - [Link to Project 1]([link_to_project1](https://github.com/bipinj08/Coverage-Path-Planning-Using-MuZero))
+   - [Link to Project 1][https://github.com/bipinj08/Coverage-Path-Planning-Using-MuZero]
 
 2. **UAV Path Planning using Global and Local Map Information with MuZero algorithm**
    - Description: UAV path planning using the innovative MuZero algorithm.
