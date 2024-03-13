@@ -46,5 +46,7 @@ You can reach me via email at [bipinj08@gmail.com](mailto:bipinj08@gmail.com).
 6. **Papers**
    - Unmanned Aerial Vehicle Path Planning Optimization: A Comparative Study of DDQN, PPO, and MuZero Algorithms
    - [https://github.com/bipinj08/Papers.git]
-
+7. **Computer Vision Course**
+   - Beginners to advance level of OpenCV
+   - [https://github.com/bipinj08/OpenCV_course.git]
 Feel free to explore these projects, and I'm open to discussions and collaborations! Let's create something amazing together.
