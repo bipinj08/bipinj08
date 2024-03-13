@@ -18,6 +18,7 @@ I'm actively seeking collaborations in the following areas:
 - Data Analytics
 - Deep Learning
 - Reinforcement Learning
+- Computer Vision
 
 ## 📫 Contact
 You can reach me via email at [bipinj08@gmail.com](mailto:bipinj08@gmail.com).
