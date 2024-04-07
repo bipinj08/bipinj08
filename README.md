@@ -6,6 +6,7 @@ I'm passionate about exploring the realms of Machine Learning, Deep Learning, an
 - Machine Learning
 - Deep Learning
 - Data Science
+- Embedded Systems
 
 ## Current Endeavors
 - 🌱 Currently learning and expanding my knowledge in the field.
